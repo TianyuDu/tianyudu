@@ -1,5 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tianyudu&show_icons=true&count_private=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianyudu&layout=compact&show_icons=true&count_private=true)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tianyudu&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianyudu&layout=compact&show_icons=true&count_private=true)
 
 <!--
 **TianyuDu/tianyudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
